@@ -23,7 +23,7 @@ Esta aplicação Web foi proposta pela Rocketseat e apresentado no Maratona Expl
 <h2 id="layout">:triangular_ruler: Layout Mobile</h2>
 
 Cracha exclusivo para uso no evento DoWhile 2021 🚀<br>
-O projeto também pode ser encontrado [neste link](https://rildodev.github.io/cracha-nlw/)
+O projeto também pode ser encontrado [neste link](https://rildodev.github.io/maratona-explorer/)
 
 <p align="center">
   <img alt="Demonstração" src="https://raw.githubusercontent.com/rildodev/cracha-nlw/master/images/crach%C3%A1.jpg" width="230px" />
