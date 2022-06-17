@@ -11,7 +11,7 @@
 
 <h2 id="about">:notebook_with_decorative_cover: Sobre o Projeto</h2>
 
-Esta aplicação Web foi proposta pela Rocketseat e apresentado no Maratona Explorer, a primeira Maratona da Rocketseat deste ano. O projeto apresentado neste repositório foi criado usando as tecnologias de HTML, CSS e JS, onde pontos iniciais foram dados a iniciantes ou que quisessem reforçar esse conhecimento teórico e técnico.
+Esta aplicação Web foi proposta pela Rocketseat e apresentado durante a semana do Maratona Explorer, a primeira Maratona da Rocketseat deste ano. O projeto apresentado neste repositório foi criado usando as tecnologias de HTML, CSS e JS, onde pontos iniciais foram dados a iniciantes ou que quisessem reforçar esse conhecimento teórico e técnico. O intuito da aplicação é "prever" uma posível resposta para seu questionamento. O que esperar de uma aplicação assim? Muita risada, claro!😁.
 <h2 id="technology">:hammer_and_wrench: Tecnologias utilizadas</h2>
 
 <ul>
@@ -20,14 +20,17 @@ Esta aplicação Web foi proposta pela Rocketseat e apresentado no Maratona Expl
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">JavaScript</a></li>
 </ul>
 
-<h2 id="layout">:triangular_ruler: Layout Mobile</h2>
-
-Cracha exclusivo para uso no evento DoWhile 2021 🚀<br>
-O projeto também pode ser encontrado [neste link](https://rildodev.github.io/maratona-explorer/)
-
+<h2 id="layout">:triangular_ruler: Layout Desktop</h2>
 <p align="center">
-  <img alt="Demonstração" src="https://raw.githubusercontent.com/rildodev/cracha-nlw/master/images/crach%C3%A1.jpg" width="230px" />
+  <img alt="Demonstração" src="https://raw.githubusercontent.com/rildodev/maratona-explorer/master/assets/images/desktop_version.png" width="1100px" />
 </p>
+
+<h2 id="layout">:triangular_ruler: Layout Mobile</h2>
+<p align="center">
+  <img alt="Demonstração" src="https://raw.githubusercontent.com/rildodev/maratona-explorer/master/assets/images/mobile_version.jpeg" width="230px" />
+</p>
+
+Você pode acessar a aplicação [neste link](https://rildodev.github.io/maratona-explorer/)🔮
 
 <h2 id="about-me">👦 Sobre mim</h2>
 
