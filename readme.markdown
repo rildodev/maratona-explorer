@@ -1,67 +1,37 @@
-# HTML
+<p align="center"> <img src="./nlw_heat.png" /></p>
 
-- HyperText Markup Language
+<h1 align="center">🔮 Bola de Cristal - Maratona Explorer 2022</h1>
 
-- Hiper texto?
-  - Links/Textos
-- Marcação
-  - tags
-  - Atributos
-- Linguagem
-  - Maneira de escrever
+<p align="center">
+  <a href="#about">Sobre o Projeto</a> •
+  <a href="#technology">Tecnologias</a> •
+  <a href="#layout">Layout</a> •
+  <a href="#about-me">Sobre mim</a>
+</p>
 
-# CSS
+<h2 id="about">:notebook_with_decorative_cover: Sobre o Projeto</h2>
 
-- apresentação visual para o cliente
+Esta aplicação Web foi proposta pela Rocketseat e apresentado no Maratona Explorer, a primeira Maratona da Rocketseat deste ano. O projeto apresentado neste repositório foi criado usando as tecnologias de HTML, CSS e JS, onde pontos iniciais foram dados a iniciantes ou que quisessem reforçar esse conhecimento teórico e técnico.
+<h2 id="technology">:hammer_and_wrench: Tecnologias utilizadas</h2>
 
-- Estilos para o HTML
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">JavaScript</a></li>
+</ul>
 
-- Cascading Style Sheets
+<h2 id="layout">:triangular_ruler: Layout Mobile</h2>
 
-# DECLARAÇÃO
+Cracha exclusivo para uso no evento DoWhile 2021 🚀<br>
+O projeto também pode ser encontrado [neste link](https://rildodev.github.io/cracha-nlw/)
 
-- Seletor
-- Propriedade
+<p align="center">
+  <img alt="Demonstração" src="https://raw.githubusercontent.com/rildodev/cracha-nlw/master/images/crach%C3%A1.jpg" width="230px" />
+</p>
 
-# CONCEITOS
+<h2 id="about-me">👦 Sobre mim</h2>
 
-- Cascata
-- Especificidade
-
-- Box Model
-
-  - Tudo são caixas
-  - Caixas possuem determinadas propriedades
-
-  # JAVASCRIPT
-
-  - O que é?
-
-    - Linguagem de Programação
-      Interpretada e executada pelos navegadores
-
-    - A inteligência da Tríade
-      HTML é a estrutura, CSS a beleza e o JS é a inteligência
-
-    - Não é JAVA  
-      Apesar dos nomes serem semelhantes, são linguagens diferentes
-
-# Por que JS?
-
-- Aplicativos
-  Para WEB, Desktop (electron) e mobile (React Native)
-
-- Empresas Famosas
-  Instagram, Google, Netflix, tiktok...
-
-- Moderna e Vida
-  Comunidade e linguagem que cresce cada dia mais
-
-# Sintaxe
-
-- É presente em toda linguagem e é importante para a comunicação
-
-const mensagem = "Bom te ver aqui! "
-alert (mensagem + (10 * 100) + " abraços")
-
-//Bom te ver aqui! 1000 abraços
+Meu nome é Rildo Maciel, tenho 31 anos, paraibano e estou cursando Análise e Desenvolvimento de Sistemas. Busco minha entrada na área de trabalho como desenvolvedor, principalmente usando JavaScript como linguagem. Atualmente, estou focado em entender melhor conceitos mais avançados de HTML, CSS e JavaScript. <br>
+ 
+> • [Linkedin](https://www.linkedin.com/in/rildomaciel/)<br>
+> • [Rocketseat](https://app.rocketseat.com.br/me/rildo-maciel-berto-da-silva-04330)
