@@ -1,4 +1,4 @@
-<p align="center"> <img src="./nlw_heat.png" /></p>
+<p align="center"> <img src="./assets/images/Maratona Explorer_background.png" /></p>
 
 <h1 align="center">🔮 Bola de Cristal - Maratona Explorer 2022</h1>
 
